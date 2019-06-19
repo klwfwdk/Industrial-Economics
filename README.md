@@ -4,6 +4,8 @@
 
 本来只是一个很简单的开卷考试，但是突然兴起就用ppt把老师的ppt梳理了一遍，前前后后大约用了3天时间
 
+话说真的会有需要考这个课的同学会在github上找资料的吗
+
 ## 相关软件
 
 要正确的显示文档中的图像与公式，需要一个插件 [`Markdown Preview Enhanced`](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/) 这个插件有 `vs code` 与`Atom`下都有具体使用方法可以看他们官网
